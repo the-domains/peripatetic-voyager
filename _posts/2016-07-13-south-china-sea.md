@@ -10,18 +10,26 @@ description: >-
   China has defended this ruling stating that it “neither accepts nor
   recognizes” the court’s ruling and that the arbitration was “out of bad
   faith”.
-dateModified: '2016-07-13T16:21:40.687Z'
-datePublished: '2016-07-13T16:23:13.125Z'
+dateModified: '2016-07-13T16:25:15.356Z'
+datePublished: '2016-07-13T16:57:29.944Z'
 title: South China Sea
 author: []
-starred: false
 sourcePath: _posts/2016-07-13-south-china-sea.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51efe87e-ccc5-475b-bed3-d17112bc9274.jpg
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49aa17e8-f8de-4947-bb1f-1797a2c4215e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f4b9d62-643f-4ff4-9eed-becf9a477e61.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c53bbb16-607c-459f-b0b3-2d08196f5fd2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61cb2ed-610e-4ee0-abe5-198ed1d5f543.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51efe87e-ccc5-475b-bed3-d17112bc9274.jpg)
+
 # South China Sea
 
 Tensions in the South China Sea have been rising rapidly in recent times with China, Vietnam, Taiwan, The Philippines and Malaysia all laying claim to a collection of disputed island chains, namely the largely uninhibited Paracels and Spratlys. After years of militarisation in the area, and claims of sovereignty from all parties, on July 12, 2016, an international court ruling in The Hague declared that China's recent actions in the South China Sea were in fact illegal, environmentally destructive and deliberately provocative. China has defended this ruling stating that it "neither accepts nor recognizes" the court's ruling and that the arbitration was "out of bad faith".
