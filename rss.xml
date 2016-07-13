@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[peripatetic voyager]]></title>
+        <description><![CDATA[peripatetic voyager]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 16:57:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South China Sea]]></title>
+            <description><![CDATA[<article><h1>South China Sea</h1><p>Tensions in the South China Sea have been rising rapidly in recent times with China, Vietnam, Taiwan, The Philippines and Malaysia all laying claim to a collection of disputed island chains, namely the largely uninhibited Paracels and Spratlys. After years of militarisation in the area, and claims of sovereignty from all parties, on July 12, 2016, an international court ruling in The Hague declared that China’s recent actions in the South China Sea were in fact illegal, environmentally destructive and deliberately provocative. China has defended this ruling stating that it “neither accepts nor recognizes” the court’s ruling and that the arbitration was “out of bad faith”.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49aa17e8-f8de-4947-bb1f-1797a2c4215e.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/51efe87e-ccc5-475b-bed3-d17112bc9274.jpg</link>
+            <guid isPermaLink="false">e4c36c70-0fc1-4ac5-b79c-1f39bdbadf67</guid>
+            <pubDate>Wed, 13 Jul 2016 16:57:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
